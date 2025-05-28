@@ -1,0 +1,1084 @@
+# 
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2022
+# Philip Larsen Donnelly, 2022
+# Thiago Rocha, 2024
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2024-01-19T12:15:17.744Z\n"
+"PO-Revision-Date: 2019-09-02 16:26+0000\n"
+"Last-Translator: Thiago Rocha, 2024\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/hisp-uio/teams/100509/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "nenhum"
+
+msgid "Attribute value needs to be unique, value already taken."
+msgstr "O valor do atributo precisa ser exclusivo, valor já utilizado."
+
+msgid ""
+"There was a problem whilst checking the availability of this attribute value"
+msgstr ""
+"Ocorreu um problema ao verificar a disponibilidade deste valor de atributo"
+
+msgid "Value should be a positive integer"
+msgstr "O valor deve ser um número inteiro positivo"
+
+msgid "Value should be a negative integer"
+msgstr "O valor deve ser um número inteiro nagativo"
+
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+msgid "Display name"
+msgstr "Nome de exibição"
+
+msgid "1 pending change"
+msgstr "1 alteração pendente"
+
+msgid "{{pendingChanges}} pending changes"
+msgstr "{{pendingChanges}} alterações pendentes"
+
+msgid "Cancel all"
+msgstr "Cancelar tudo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Action"
+msgstr "Acção"
+
+msgid "Will be added"
+msgstr "Será adicionado"
+
+msgid "Will be removed"
+msgstr "Será removido"
+
+msgid "Network error"
+msgstr "Erro de rede"
+
+msgid "Could not load current user information."
+msgstr "Não foi possível carregar as informações atuais do usuário."
+
+msgid "Filter options"
+msgstr "Opções de filtro"
+
+msgid "Error fetching form"
+msgstr "Erro ao buscar o formulário"
+
+msgid "There was an error fetching this form."
+msgstr "Ocorreu um erro ao buscar esse formulário."
+
+msgid "Cancel without saving"
+msgstr "Cancelar sem gravar"
+
+msgid "Basic information"
+msgstr "Informações básicas"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Used in analytics reports."
+msgstr "Usado em relatórios analíticos."
+
+msgid "Search for a user in this group"
+msgstr "Procurar um usuário nesse grupo"
+
+msgid "Search for a user to add"
+msgstr "Procurar um usuário para adicionar"
+
+msgid "1 user selected"
+msgstr "1 usuário selecionado"
+
+msgid "{{selectedCount}} users selected"
+msgstr "{{selectedCount}} usuários selecionados"
+
+msgid "Remove 1 user"
+msgstr "Remover 1 usuário"
+
+msgid "Remove {{selectedCount}} users"
+msgstr "Remover {{selectedCount}} usuários"
+
+msgid "Add 1 user"
+msgstr "Adicionar 1 usuário"
+
+msgid "Add {{selectedCount}} users"
+msgstr "Adicionar {{selectedCount}} usuários"
+
+msgid "Remove from group"
+msgstr "Remover do grupo"
+
+msgid "Add to group"
+msgstr "Adicionar ao grupo"
+
+msgid "There aren't any users in this group yet"
+msgstr "Ainda não há usuários neste grupo"
+
+msgid "View and remove users from group"
+msgstr "Visualizar e remover usuários do grupo"
+
+msgid "Add users to group"
+msgstr "Adicionar usuários ao grupo"
+
+msgid "Username"
+msgstr "Utilizador"
+
+msgid "Error loading users"
+msgstr "Erro ao carregar usuários"
+
+msgid "Error updating group"
+msgstr "Erro ao atualizar o grupo"
+
+msgid "Error creating group"
+msgstr "Erro ao criar grupo"
+
+msgid "Attributes"
+msgstr "Atributos"
+
+msgid "User group management"
+msgstr "Gestão de grupo de usuários"
+
+msgid ""
+"This group can manage other user groups. Add managed user groups below."
+msgstr ""
+"Esse grupo pode gerenciar outros grupos de usuários. Adicione grupos de "
+"usuários gerenciados abaixo."
+
+msgid "Available user groups"
+msgstr "Grupos de usuários disponíveis"
+
+msgid "Managed user groups"
+msgstr "Grupos de usuários gerenciados"
+
+msgid "User management"
+msgstr "Gestão de usuários"
+
+msgid "Add or remove users from this group."
+msgstr "Adicione ou remova usuários desse grupo."
+
+msgid "Name is already taken"
+msgstr "Nome de usuário já utilizado"
+
+msgid ""
+"There was a problem whilst checking the availability of this group name"
+msgstr "Houve um problema ao verificar a disponibilidade desse nome de grupo"
+
+msgid "Code is already taken"
+msgstr "O código já foi utilizado"
+
+msgid ""
+"There was a problem whilst checking the availability of this group code"
+msgstr ""
+"Houve um problema ao verificar a disponibilidade desse código de grupo"
+
+msgid "Only show selected metadata authorities"
+msgstr "Mostrar apenas as autoridades de metadados selecionadas"
+
+msgid "Authority"
+msgstr "Autoridade"
+
+msgid "Add/Update Public"
+msgstr "Adicionar/Atualizar Público"
+
+msgid "Add/Update Private"
+msgstr "Adicionar/Atualizar Privado"
+
+msgid "Delete"
+msgstr "Apagar"
+
+msgid "External access"
+msgstr "Acesso externo"
+
+msgid "Error updating role"
+msgstr "Erro ao atualizar a função"
+
+msgid "Error creating role"
+msgstr "Erro ao criar a função"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Short, clear description of what this role is for."
+msgstr "Descrição breve e clara do objetivo da função."
+
+msgid "Metadata authorities"
+msgstr "Autoridades de metadados"
+
+msgid "Set what metadata access this role has."
+msgstr "Define o acesso de metadados que essa função tem."
+
+msgid "Other authorities"
+msgstr "Outras autoridades"
+
+msgid ""
+"Manage access to apps, tracker, data import/export and system settings."
+msgstr ""
+"Gerencie o acesso a aplicativos, rastreador, importação/exportação de dados "
+"e configurações do sistema."
+
+msgid "Available app authorities"
+msgstr "Autoridades de aplicativos disponíveis"
+
+msgid "Selected app authorities"
+msgstr "Autoridades de aplicativos selecionadas"
+
+msgid "Available tracker authorities"
+msgstr "Autoridades de rastreamento disponíveis"
+
+msgid "Selected tracker authorities"
+msgstr "Autoridades de rastreamento selecionadas"
+
+msgid "Available import/export authorities"
+msgstr "Autoridades de importação/exportação disponíveis"
+
+msgid "Selected import/export authorities"
+msgstr "Autoridades de importação/exportação selecionadas"
+
+msgid "Available system authorities"
+msgstr "Autoridades de sistema disponíveis"
+
+msgid "Selected system authorities"
+msgstr "Autoridades de sistema selecionadas"
+
+msgid "All (Full authority)"
+msgstr "Todos (autoridade total)"
+
+msgid "Aggregate Data Exchange"
+msgstr "Intercâmbio de dados agregados"
+
+msgid "Analytics Table Hook"
+msgstr "Gancho de mesa para análise"
+
+msgid "Attribute"
+msgstr "Atributo"
+
+msgid "Category Combo"
+msgstr "Categoria Combo"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Category Option"
+msgstr "Opção de categoria"
+
+msgid "Category Option Group"
+msgstr "Grupo de opções de categoria"
+
+msgid "Category Option Group Set"
+msgstr "Conjunto de grupos de opções de categoria"
+
+msgid "Color Set"
+msgstr "Conjunto de cores"
+
+msgid "Constant"
+msgstr "Constante"
+
+msgid "Dashboard"
+msgstr "Gráficos"
+
+msgid "Data Element Group Sets"
+msgstr "Conjuntos de grupos de elementos de dados"
+
+msgid "Data Element Groups"
+msgstr "Grupos de elementos de dados"
+
+msgid "Data Element"
+msgstr "Elemento de dados"
+
+msgid "Min/max rule"
+msgstr "Min/max regra"
+
+msgid "Data Set"
+msgstr "Conjunto de Dados"
+
+msgid "Data Value"
+msgstr "Valor dos dados"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Event Chart"
+msgstr "Gráfico de Eventos"
+
+msgid "Event Report"
+msgstr "Relatório de Evento"
+
+msgid "External Map Layer"
+msgstr "Camada de mapa externo"
+
+msgid "Indicator Group Sets"
+msgstr "Conjuntos de grupos de indicadores"
+
+msgid "Indicator Group"
+msgstr "Grupo de Indicadores"
+
+msgid "Indicator Type"
+msgstr "Tipo de indicador"
+
+msgid "Indicator"
+msgstr "Indicador"
+
+msgid "Legend Set"
+msgstr "Conjunto de legendas"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Min-Max Data Element"
+msgstr "MIn-Max Elemento de dados"
+
+msgid "Option Group Set"
+msgstr "Conjunto de grupos de opções"
+
+msgid "Option Group"
+msgstr "Grupo de opções"
+
+msgid "Option Set"
+msgstr "Conjunto de opções"
+
+msgid "Organisation Unit"
+msgstr "Unidade organizacional"
+
+msgid "Organisation Unit Group Set"
+msgstr "Conjunto de grupos de unidades da organização"
+
+msgid "Organisation Unit Group"
+msgstr "Grupo de unidades de organização"
+
+msgid "Predictor"
+msgstr "Preditor"
+
+msgid "Program Stage"
+msgstr "Estágio do Programa"
+
+msgid "Program"
+msgstr "Programa"
+
+msgid "Program Indicator"
+msgstr "Indicador do programa"
+
+msgid "Program Indicator Group"
+msgstr "Grupo de Indicadores do Programa"
+
+msgid "Program Rule"
+msgstr "Regra do programa"
+
+msgid "Program Tracked Entity Attribute Group"
+msgstr "Grupo de atributos da entidade rastreada pelo programa"
+
+msgid "Push Analysis"
+msgstr "Análise de envio"
+
+msgid "Relationship Type"
+msgstr "Tipo de Relação"
+
+msgid "Report"
+msgstr "Relatório"
+
+msgid "Section"
+msgstr "Seção"
+
+msgid "SQL View"
+msgstr "Ver SQL"
+
+msgid "Tracked Entity"
+msgstr "Entidade Rastreada"
+
+msgid "Tracked Entity Attribute"
+msgstr "Atributo da entidade rastreada"
+
+msgid "Tracked Entity Data Value"
+msgstr "Valor dos dados da entidade rastreada"
+
+msgid "Tracked Entity Instance"
+msgstr "Instância da entidade rastreada"
+
+msgid "User Group"
+msgstr "Grupo de utilizadores"
+
+msgid "User Role"
+msgstr "Função de usuário"
+
+msgid "User"
+msgstr "Utilizador"
+
+msgid "Validation Rule Group"
+msgstr "Grupo de Regras de Validação"
+
+msgid "Validation Rule"
+msgstr "Regra de validação"
+
+msgid "Data predictor group"
+msgstr "Grupo de previsão de dados"
+
+msgid "Skip data import audit"
+msgstr "Ignorar auditoria de importação de dados"
+
+msgid "Visualization"
+msgstr "Visualização"
+
+msgid "Event Hook"
+msgstr ""
+
+msgid "Route"
+msgstr "Rota"
+
+msgid "There was a problem whilst checking the availability of this role name"
+msgstr "Houve um problema ao verificar a disponibilidade desse nome de função"
+
+msgid "Search by name"
+msgstr "Pesquisar por nome"
+
+msgid "Search for an organisation unit"
+msgstr "Pesquisar uma unidade organizacional"
+
+msgid ""
+"Showing {{visibleItemsCount}} of {{totalSearchResultCount}} search results, "
+"please refine your search to see more."
+msgstr ""
+"Mostrando {{visibleItemsCount}} de {{totalSearchResultCount}} resultados da "
+"pesquisa, refine sua pesquisa para ver mais."
+
+msgid "Something went wrong when processing your request."
+msgstr "Ocorreu um erro ao processar sua solicitação."
+
+msgid "There was a problem retreiving your search results"
+msgstr "Ocorreu um problema ao recuperar seus resultados de pesquisa"
+
+msgid "Please enter at least {{ minCharLength }} characters"
+msgstr "Digite pelo menos {{ minCharLength }} caracteres"
+
+msgid "No matches found"
+msgstr "Nenhuma equivalência encontrada"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Clear all"
+msgstr "Limpar tudo"
+
+msgid "Insufficient permissions"
+msgstr "Permissões insuficientes"
+
+msgid ""
+"You do not have access to any section of the DHIS 2 User Management App"
+msgstr ""
+"Você não tem acesso a nenhuma seção do aplicativo de gerenciamento de "
+"usuários do DHIS 2"
+
+msgid "User role"
+msgstr "Função de usuário"
+
+msgid "User group"
+msgstr "Grupo de usuários"
+
+msgid "Analytics dimension restrictions"
+msgstr "Restrições de dimensão do Analytics"
+
+msgid "Available restrictions"
+msgstr "Restrições disponíveis"
+
+msgid "Selected restrictions"
+msgstr "Restrições selecionadas"
+
+msgid "Email address"
+msgstr "Endereço de E-Mail"
+
+msgid "First name"
+msgstr "Primeiro nome"
+
+msgid "Last name"
+msgstr "Último nome"
+
+msgid "Interface language"
+msgstr "Idioma da interface"
+
+msgid "Database language"
+msgstr "Linguagem da Base de Dados"
+
+msgid "Use database locale / no translation"
+msgstr "Utilizar lingua da Base de Dados / Sem tradução"
+
+msgid "Disable this user account"
+msgstr "Desativar essa conta de usuário"
+
+msgid "Contact details"
+msgstr "Detalhes de contato"
+
+msgid "Mobile phone number"
+msgstr "Número de telefone"
+
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Invite user"
+msgstr "Convidar usuário"
+
+msgid "Create account or email invitation"
+msgstr "Criar conta ou convite por email"
+
+msgid "Create account with user details"
+msgstr "Crie uma conta com detalhes do usuário"
+
+msgid "Email invitation to create account"
+msgstr "Convite por email para criar conta"
+
+msgid "Organisation unit access"
+msgstr "Acesso à unidade organizacional"
+
+msgid ""
+"Customise the organisation units this user has access to for searching, "
+"capturing and managing data."
+msgstr ""
+"Personalize as unidades organizacionais às quais esse usuário tem acesso "
+"para pesquisar, capturar e gerenciar dados."
+
+msgid "Organisation unit selections are recursive"
+msgstr "As seleções de unidades de organização são recursivas"
+
+msgid "Selecting a unit gives access to all units in its sub-hierarchy."
+msgstr ""
+"A seleção de uma unidade dá acesso a todas as unidades em sua sub-"
+"hierarquia."
+
+msgid "Data capture and maintenance"
+msgstr "Captura e manutenção de dados"
+
+msgid "The organisation units that this user can enter and edit data for."
+msgstr ""
+"As unidades organizacionais para as quais esse usuário pode inserir e editar"
+" dados."
+
+msgid "Data output and analysis"
+msgstr "Saída e análise de dados"
+
+msgid "The organisation units that this user can export and analyse."
+msgstr ""
+"As unidades organizacionais que esse usuário pode exportar e analisar."
+
+msgid "Search"
+msgstr "Pesquisar"
+
+msgid "The organisation that this user can search for and in."
+msgstr "A organização que esse usuário pode pesquisar."
+
+msgid "Maximum organisation unit level for data output"
+msgstr "Nível máximo de unidade organizacional para saída de dados"
+
+msgid "Roles and groups"
+msgstr "Funções e grupos"
+
+msgid "Manage what roles and groups this user is a member of."
+msgstr "Gerencie as funções e os grupos dos quais esse usuário é membro."
+
+msgid "Available user roles"
+msgstr "Funções de usuário disponíveis"
+
+msgid "User roles this user is assigned"
+msgstr "Funções de usuário atribuídas a esse usuário"
+
+msgid "User groups this user is a member of"
+msgstr "Grupos de usuários dos quais esse usuário é membro"
+
+msgid "Security"
+msgstr "Segurança"
+
+msgid "Settings for how this user can log in."
+msgstr "Configurações de como esse usuário pode fazer login."
+
+msgid "Change user password"
+msgstr "Mudar Password"
+
+msgid "New password"
+msgstr "Nova password"
+
+msgid "Password"
+msgstr "Password"
+
+msgid ""
+"Password should be at least 8 characters long, with at least one lowercase "
+"character, one uppercase character and one special character."
+msgstr ""
+"A senha deve ter pelo menos 8 caracteres, com pelo menos um caractere "
+"minúsculo, um caractere maiúsculo e um caractere especial."
+
+msgid "Repeat new password"
+msgstr "Repetir a nova senha"
+
+msgid "Repeat password"
+msgstr "Repetir a senha"
+
+msgid "Account expiration date"
+msgstr "Data de expiração da conta"
+
+msgid "OIDC mapping value"
+msgstr "Valor de mapeamento OIDC"
+
+msgid "OpenID Connect mapping claim for your identity platform"
+msgstr ""
+"Solicitação de mapeamento do OpenID Connect para sua plataforma de "
+"identidade"
+
+msgid "LDAP identifier"
+msgstr "identificador LDAP"
+
+msgid "External authentication only (OpenID / LDAP)"
+msgstr "Somente autenticação externa (OpenID ou LDAP)"
+
+msgid "Invalid username"
+msgstr "Nome de usuário inválido"
+
+msgid "Invalid WhatsApp number"
+msgstr "Número de WhatsApp inválido"
+
+msgid "Send invite"
+msgstr "Enviar convite "
+
+msgid "Cancel invite"
+msgstr "Cancelar convite"
+
+msgid "Error updating user"
+msgstr "Erro ao atualizar o usuário"
+
+msgid "Error creating user"
+msgstr "Erro ao criar o usuário"
+
+msgid "Username already taken"
+msgstr "Nome de usuário já utilizado"
+
+msgid "There was a problem whilst checking the availability of this username"
+msgstr ""
+"Houve um problema ao verificar a disponibilidade desse nome de usuário"
+
+msgid "Passwords do not match"
+msgstr "As senhas não correspondem"
+
+msgid "Please provide a value"
+msgstr "Forneça um valor"
+
+msgid "New group"
+msgstr "Novo grupo"
+
+msgid "Create group"
+msgstr "Criar grupo"
+
+msgid "New role"
+msgstr "Nova função"
+
+msgid "Create role"
+msgstr "Criar função"
+
+msgid "Error fetching interface language"
+msgstr "Erro ao buscar a linguagem da interface"
+
+msgid "There was an error fetching the default interface language."
+msgstr "Ocorreu um erro ao buscar o idioma padrão da interface."
+
+msgid "New user"
+msgstr "Novo usuário"
+
+msgid "Create user"
+msgstr "Criar usuário"
+
+msgid "Error fetching group"
+msgstr "Erro ao buscar o grupo"
+
+msgid "There was an error fetching this group."
+msgstr "Ocorreu um erro ao buscar esse grupo."
+
+msgid "Edit group"
+msgstr "Alterar grupo"
+
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+msgid "Error fetching role"
+msgstr "Erro ao buscar a função"
+
+msgid "There was an error fetching this role."
+msgstr "Ocorreu um erro ao buscar essa função."
+
+msgid "Edit role"
+msgstr "Alterar função"
+
+msgid "Error fetching user"
+msgstr "Erro ao buscar o usuário"
+
+msgid "There was an error fetching this user."
+msgstr "Ocorreu um erro ao buscar esse usuário."
+
+msgid "Edit user"
+msgstr "Alterar usuário"
+
+msgid "Overview"
+msgstr "Visão geral"
+
+msgid "Edit user group"
+msgstr "Editar grupo de usuários"
+
+msgid "ID"
+msgstr "Id"
+
+msgid "Show details"
+msgstr "Mostrar detalhes"
+
+msgid "Sharing settings"
+msgstr "Definições de partilha"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Join group"
+msgstr "Juntar-se ao grupo"
+
+msgid "Leave group"
+msgstr "Deixar o grupo"
+
+msgid "Deleted \"{{- name}}\" successfully"
+msgstr "Excluiu \"{{- name}}\" com êxito"
+
+msgid "There was an error deleting the user group: {{- error}}"
+msgstr "Ocorreu um erro ao excluir o grupo de usuários: {{- error}}"
+
+msgid "Delete user group {{- name}}"
+msgstr "Excluir grupo de usuários {{- name}}"
+
+msgid "Are you sure you want to delete {{- name}}?"
+msgstr "Tem certeza de que deseja excluir {{- name}}?"
+
+msgid "No, cancel"
+msgstr "Não, cancelar"
+
+msgid "Yes, delete"
+msgstr "Sim, excluir"
+
+msgid "Joined user group \"{{- name}}\" successfuly"
+msgstr "Ingressou no grupo de usuários \"{{- name}}\" com sucesso"
+
+msgid "There was an error joining the user group: {{- error}}"
+msgstr "Ocorreu um erro ao ingressar no grupo de usuários: {{- error}}"
+
+msgid "Join user group {{- name}}"
+msgstr "Junte-se ao grupo de usuários {{- name}}"
+
+msgid "Are you sure you want to join {{- name}}?"
+msgstr "Tem certeza de que deseja ingressar na {{- name}}?"
+
+msgid "Yes, join"
+msgstr "Sim, participe"
+
+msgid "Left user group \"{{- name}}\" successfuly"
+msgstr "Deixou o grupo de usuários \"{{- name}}\" com sucesso"
+
+msgid "There was an error leaving the user group: {{- error}}"
+msgstr "Ocorreu um erro ao sair do grupo de usuários: {{- error}}"
+
+msgid "Leave user group {{- name}}"
+msgstr "Sair do grupo de usuários {{- name}}"
+
+msgid "Are you sure you want to leave {{- name}}?"
+msgstr "Tem certeza de que deseja sair de {{- name}}?"
+
+msgid "Yes, leave"
+msgstr "Sim, sair"
+
+msgid "User Group Management"
+msgstr "Gestão de grupo de usuários"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Error loading user groups"
+msgstr "Erro ao carregar grupos de usuários"
+
+msgid ""
+"There are no user groups to show here. You can add a new user group below."
+msgstr ""
+"Não há grupos de usuários para mostrar aqui. Você pode adicionar um novo "
+"grupo de usuários abaixo."
+
+msgid "Add new user group"
+msgstr "Adicionar novo grupo de usuários"
+
+msgid "Member?"
+msgstr "Membro?"
+
+msgid "Actions"
+msgstr "Acções"
+
+msgid "Member"
+msgstr "Membro"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Create, modify, view and delete Users"
+msgstr "Criar, modificar, visualizar e excluir Usuários"
+
+msgid "Create, modify, view and delete User Roles"
+msgstr "Criar, modificar, visualizar e excluir Funções do usuário"
+
+msgid "Create, modify, view and delete User Groups"
+msgstr "Criar, modificar, visualizar e excluir Grupos de Usuários"
+
+msgid "Edit user role"
+msgstr "Alterar função do usuário"
+
+msgid "There was an error deleting the user role: {{- error}}"
+msgstr "Ocorreu um erro ao excluir a função do usuário: {{- error}}"
+
+msgid "Delete user role {{- name}}"
+msgstr "Excluir função de usuário {{- name}}"
+
+msgid "User Role Management"
+msgstr "Gestão de Função de Usuário"
+
+msgid "Error loading user roles"
+msgstr "Erro ao carregar funções de usuário"
+
+msgid ""
+"There are no user roles to show here. You can add a new user role below."
+msgstr ""
+"Não há funções de usuário para mostrar aqui. Você pode adicionar uma nova "
+"função de usuário abaixo."
+
+msgid "Add new user role"
+msgstr "Adicionar nova função de usuário"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Replicate"
+msgstr "Replicar"
+
+msgid "Reset password"
+msgstr "Resete a senha"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Disable Two Factor Authentication"
+msgstr "Desativar dois factores de autenticação"
+
+msgid "There was an error deleting the user: {{- error}}"
+msgstr "Ocorreu um erro ao excluir o usuário: {{- error}}"
+
+msgid "Delete user {{- name}}"
+msgstr "Excluir usuário {{- name}}"
+
+msgid "Disabled two factor authentication for \"{{- name}}\" successfuly"
+msgstr "Desativou a autenticação de dois fatores para \"{{- name}}\" com sucesso"
+
+msgid "There was an error disabling two factor authentication: {{- error}}"
+msgstr ""
+"Ocorreu um erro ao desativar a autenticação de dois fatores: {{- error}}"
+
+msgid "Disable two factor authentication for user {{- name}}"
+msgstr "Desativar a autenticação de dois fatores para o usuário {{- name}}"
+
+msgid ""
+"Are you sure you want to disable two factor authentication for {{- name}}?"
+msgstr ""
+"Tem certeza de que deseja desativar a autenticação de dois fatores para {{- "
+"name}}?"
+
+msgid "Yes, disable two factor authentication"
+msgstr "Sim, desative a autenticação de dois fatores"
+
+msgid "User \"{{- name}}\" disabled successfuly"
+msgstr "Usuário \"{{- name}}\" desativado com sucesso"
+
+msgid "There was an error disabling the user: {{- error}}"
+msgstr "Ocorreu um erro ao desativar o usuário: {{- error}}"
+
+msgid "Disable user {{- name}}"
+msgstr "Desativar o usuário {{- name}}"
+
+msgid "Are you sure you want to disable {{- name}}?"
+msgstr "Tem certeza de que deseja desativar o {{- name}}?"
+
+msgid "Yes, disable"
+msgstr "Sim, desativar"
+
+msgid "User \"{{- name}}\" enabled successfuly"
+msgstr "Usuário \"{{- name}}\" ativado com sucesso"
+
+msgid "There was an error enabling the user: {{- error}}"
+msgstr "Ocorreu um erro ao habilitar o usuário: {{- error}}"
+
+msgid "Enable user {{- name}}"
+msgstr "Habilitar o usuário {{- name}}"
+
+msgid "Are you sure you want to enable {{- name}}?"
+msgstr "Tem certeza de que deseja ativar o {{- name}}?"
+
+msgid "Yes, enable"
+msgstr "Sim, ativar"
+
+msgid "User \"{{- name}}\" replicated successfuly"
+msgstr "Usuário \"{{- name}}\" replicado com sucesso"
+
+msgid "There was an error replicating the user: {{- error}}"
+msgstr "Ocorreu um erro ao replicar o usuário: {{- error}}"
+
+msgid "Replicate user {{- name}}"
+msgstr "Replicar o usuário {{- name}}"
+
+msgid "Username for new user"
+msgstr "Nome de usuário para o novo usuário"
+
+msgid "Password for new user"
+msgstr "Senha para novo usuário"
+
+msgid "Replicate user"
+msgstr "Replicar usuário"
+
+msgid "Password of user \"{{- name}}\" reset successfuly"
+msgstr "Senha do usuário \"{{- name}}\" redefinida com sucesso"
+
+msgid "There was an error resetting the password: {{- error}}"
+msgstr "Ocorreu um erro ao redefinir a senha: {{- error}}"
+
+msgid "Are you sure you want to reset the password for {{- name}}?"
+msgstr "Tem certeza de que deseja redefinir a senha de {{- name}}?"
+
+msgid "Yes, reset"
+msgstr "Sim, redefinir"
+
+msgid "1 month"
+msgstr "1 mês"
+
+msgid "{{months}} months"
+msgstr "{{months}} meses"
+
+msgid "Time inactive"
+msgstr "Tempo inativo"
+
+msgid "Invitation"
+msgstr "Convite"
+
+msgid "All invitations"
+msgstr "Todos os convites"
+
+msgid "Expired invitations"
+msgstr "Convites expirados"
+
+msgid "Show self-registrations"
+msgstr "Mostrar registros próprios"
+
+msgid "Clear filters"
+msgstr "Limpar filtros"
+
+msgid "Org.unit"
+msgstr "Org.unit"
+
+msgid "User Management"
+msgstr "Gestão de usuários"
+
+msgid "There are no users to show here. You can add a new user below."
+msgstr ""
+"Não há usuários para mostrar aqui. Você pode adicionar um novo usuário "
+"abaixo."
+
+msgid "Add new user"
+msgstr "Adicionar novo usuário"
+
+msgid "Last login"
+msgstr "Última entrada"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Disabled"
+msgstr "Desabilitar"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Male"
+msgstr "Masculino"
+
+msgid "Female"
+msgstr "Femenino"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Contact"
+msgstr "Contato"
+
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+msgid "E-mail"
+msgstr "Correio electrónico"
+
+msgid "Permissions"
+msgstr "Permissões"
+
+msgid "Organisations units"
+msgstr "Unidades organizacionais "
+
+msgid "User units"
+msgstr "Unidades do usuário"
+
+msgid "Introduction"
+msgstr "Introdução"
+
+msgid "Job title"
+msgstr "Cargo"
+
+msgid "Works at"
+msgstr "Trabalha em"
+
+msgid "Gender"
+msgstr "Género"
+
+msgid "Speaks"
+msgstr "Fala"
+
+msgid "Nationality"
+msgstr "Nacionalidade"
+
+msgid "Education"
+msgstr "Educação"
+
+msgid "Interests"
+msgstr "Interesses"
+
+msgid "Birthday"
+msgstr "Aniversário"

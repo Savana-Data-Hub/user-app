@@ -1,0 +1,7 @@
+.container {
+    background: var(--colors-white);
+}
+
+.pagination {
+    width: 100%;
+}

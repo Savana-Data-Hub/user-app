@@ -1,0 +1,1028 @@
+# 
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2022
+# phil_dhis2, 2022
+# Hamza Assada <7amza.it@gmail.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2022-11-17T13:40:24.697Z\n"
+"PO-Revision-Date: 2019-09-02 16:26+0000\n"
+"Last-Translator: Hamza Assada <7amza.it@gmail.com>, 2022\n"
+"Language-Team: Arabic (https://www.transifex.com/hisp-uio/teams/100509/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Attribute value needs to be unique, value already taken."
+msgstr "يجب أن تكون قيمة السمة فريدة ، القيمة مأخوذة مسبقاً."
+
+msgid ""
+"There was a problem whilst checking the availability of this attribute value"
+msgstr ""
+
+msgid "Value should be a positive integer"
+msgstr "يجب أن تكون القيمة عدداً صحيحاً موجباً"
+
+msgid "Value should be a negative integer"
+msgstr ""
+
+msgid "No results found"
+msgstr "لم يتم العثور على أي نتائج"
+
+msgid "Display name"
+msgstr "إسم العرض"
+
+msgid "1 pending change"
+msgstr ""
+
+msgid "{{pendingChanges}} pending changes"
+msgstr ""
+
+msgid "Cancel all"
+msgstr ""
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Action"
+msgstr "إجراء"
+
+msgid "Will be added"
+msgstr ""
+
+msgid "Will be removed"
+msgstr ""
+
+msgid "Network error"
+msgstr ""
+
+msgid "Could not load current user information."
+msgstr ""
+
+msgid "Filter options"
+msgstr "خيارات التصفية"
+
+msgid "Error fetching form"
+msgstr ""
+
+msgid "There was an error fetching this form."
+msgstr ""
+
+msgid "Cancel without saving"
+msgstr ""
+
+msgid "Basic information"
+msgstr ""
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "Code"
+msgstr "الرمز"
+
+msgid "Used in analytics reports."
+msgstr ""
+
+msgid "Search for a user in this group"
+msgstr ""
+
+msgid "Search for a user to add"
+msgstr ""
+
+msgid "1 user selected"
+msgstr ""
+
+msgid "{{selectedCount}} users selected"
+msgstr ""
+
+msgid "Remove 1 user"
+msgstr ""
+
+msgid "Remove {{selectedCount}} users"
+msgstr ""
+
+msgid "Add 1 user"
+msgstr ""
+
+msgid "Add {{selectedCount}} users"
+msgstr ""
+
+msgid "Remove from group"
+msgstr ""
+
+msgid "Add to group"
+msgstr ""
+
+msgid "There aren't any users in this group yet"
+msgstr ""
+
+msgid "View and remove users from group"
+msgstr ""
+
+msgid "Add users to group"
+msgstr ""
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Error loading users"
+msgstr ""
+
+msgid "Error updating group"
+msgstr ""
+
+msgid "Error creating group"
+msgstr ""
+
+msgid "Attributes"
+msgstr "السمات"
+
+msgid "User group management"
+msgstr ""
+
+msgid ""
+"This group can manage other user groups. Add managed user groups below."
+msgstr ""
+
+msgid "Available user groups"
+msgstr "مجموعات المستخدم المتاحة"
+
+msgid "Managed user groups"
+msgstr "مجموعات المستخدمين التي سيتم إدارتها"
+
+msgid "User management"
+msgstr "إدارة المستخدم"
+
+msgid "Add or remove users from this group."
+msgstr ""
+
+msgid "Name is already taken"
+msgstr ""
+
+msgid ""
+"There was a problem whilst checking the availability of this group name"
+msgstr ""
+
+msgid "Code is already taken"
+msgstr ""
+
+msgid ""
+"There was a problem whilst checking the availability of this group code"
+msgstr ""
+
+msgid "Only show selected metadata authorities"
+msgstr ""
+
+msgid "Authority"
+msgstr ""
+
+msgid "Add/Update Public"
+msgstr ""
+
+msgid "Add/Update Private"
+msgstr ""
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "External access"
+msgstr "صلاحية الوصول الخارجي"
+
+msgid "Error updating role"
+msgstr ""
+
+msgid "Error creating role"
+msgstr ""
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Short, clear description of what this role is for."
+msgstr ""
+
+msgid "Metadata authorities"
+msgstr ""
+
+msgid "Set what metadata access this role has."
+msgstr ""
+
+msgid "Other authorities"
+msgstr ""
+
+msgid ""
+"Manage access to apps, tracker, data import/export and system settings."
+msgstr ""
+
+msgid "Available app authorities"
+msgstr ""
+
+msgid "Selected app authorities"
+msgstr ""
+
+msgid "Available tracker authorities"
+msgstr ""
+
+msgid "Selected tracker authorities"
+msgstr ""
+
+msgid "Available import/export authorities"
+msgstr ""
+
+msgid "Selected import/export authorities"
+msgstr ""
+
+msgid "Available system authorities"
+msgstr ""
+
+msgid "Selected system authorities"
+msgstr ""
+
+msgid "All (Full authority)"
+msgstr "الكل (صلاحية كاملة)"
+
+msgid "Analytics Table Hook"
+msgstr ""
+
+msgid "Attribute"
+msgstr "الخاصية"
+
+msgid "Category Combo"
+msgstr ""
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "Category Option"
+msgstr ""
+
+msgid "Category Option Group"
+msgstr ""
+
+msgid "Category Option Group Set"
+msgstr ""
+
+msgid "Color Set"
+msgstr ""
+
+msgid "Constant"
+msgstr "الثابت"
+
+msgid "Dashboard"
+msgstr "لوحة المعلومات"
+
+msgid "Data Element Group Sets"
+msgstr ""
+
+msgid "Data Element Groups"
+msgstr ""
+
+msgid "Data Element"
+msgstr "عنصر البيانات"
+
+msgid "Min/max rule"
+msgstr "أعلى/أقل قيمة"
+
+msgid "Data Set"
+msgstr "حزمة البيانات"
+
+msgid "Data Value"
+msgstr "قيمة بيانات"
+
+msgid "Document"
+msgstr "المستند"
+
+msgid "Event Chart"
+msgstr "المخطط البياني للأحداث"
+
+msgid "Event Report"
+msgstr "تقارير الأحداث"
+
+msgid "External Map Layer"
+msgstr "طبقة خريطة خارجية"
+
+msgid "Indicator Group Sets"
+msgstr "مجموعات مجموعة المؤشرات"
+
+msgid "Indicator Group"
+msgstr "مجموعة المؤشرات"
+
+msgid "Indicator Type"
+msgstr "نوع المؤشر"
+
+msgid "Indicator"
+msgstr "المؤشر"
+
+msgid "Legend Set"
+msgstr "مجموعة مفاتيح إيضاحية"
+
+msgid "Map"
+msgstr "الخريطة"
+
+msgid "Min-Max Data Element"
+msgstr ""
+
+msgid "Option Group Set"
+msgstr ""
+
+msgid "Option Group"
+msgstr ""
+
+msgid "Option Set"
+msgstr "مجموعة خيارات"
+
+msgid "Organisation Unit"
+msgstr "الوحدة التنظيمية"
+
+msgid "Organisation Unit Group Set"
+msgstr ""
+
+msgid "Organisation Unit Group"
+msgstr "مجموعة الوحدات التنظيمية"
+
+msgid "Predictor"
+msgstr "أداة التنبؤ"
+
+msgid "Program Stage"
+msgstr "مرحلة البرنامج"
+
+msgid "Program"
+msgstr "البرنامج"
+
+msgid "Program Indicator"
+msgstr "مؤشر برنامج"
+
+msgid "Program Indicator Group"
+msgstr "مجموعة مؤشرات برنامج"
+
+msgid "Program Rule"
+msgstr "قاعدة برنامج"
+
+msgid "Program Tracked Entity Attribute Group"
+msgstr ""
+
+msgid "Push Analysis"
+msgstr ""
+
+msgid "Relationship Type"
+msgstr "نوع العلاقة"
+
+msgid "Report"
+msgstr "التقرير"
+
+msgid "Section"
+msgstr "القسم"
+
+msgid "SQL View"
+msgstr "منظور SQL"
+
+msgid "Tracked Entity"
+msgstr "كيان متتبع"
+
+msgid "Tracked Entity Attribute"
+msgstr "سمة كيان متتبع"
+
+msgid "Tracked Entity Data Value"
+msgstr "قيمة بيانات كيان متتبع"
+
+msgid "Tracked Entity Instance"
+msgstr "نسخة الكيان المتتبع"
+
+msgid "User Group"
+msgstr "مجموعة المستخدمين"
+
+msgid "User Role"
+msgstr "دور المستخدم"
+
+msgid "User"
+msgstr "المستخدم"
+
+msgid "Validation Rule Group"
+msgstr "مجموعة قواعد التحقق"
+
+msgid "Validation Rule"
+msgstr "قاعدة التحقق"
+
+msgid "Data predictor group"
+msgstr ""
+
+msgid "Skip data import audit"
+msgstr "تخطي تدقيق استيراد البيانات"
+
+msgid "Visualization"
+msgstr "التخطيط البياني"
+
+msgid "There was a problem whilst checking the availability of this role name"
+msgstr ""
+
+msgid "Search by name"
+msgstr "البحث باستخدام الاسم"
+
+msgid "Search for an organisation unit"
+msgstr ""
+
+msgid ""
+"Showing {{visibleItemsCount}} of {{totalSearchResultCount}} search results, "
+"please refine your search to see more."
+msgstr ""
+
+msgid "Something went wrong when processing your request."
+msgstr "حدث خطأ ما أثناء معالجة طلبك."
+
+msgid "There was a problem retreiving your search results"
+msgstr "حدثت مشكلة في استرداد نتائج البحث"
+
+msgid "Please enter at least {{ minCharLength }} characters"
+msgstr ""
+
+msgid "No matches found"
+msgstr "لا توجد نتاج متوافقة"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Clear all"
+msgstr "تنظيف الكل"
+
+msgid "Insufficient permissions"
+msgstr ""
+
+msgid ""
+"You do not have access to any section of the DHIS 2 User Management App"
+msgstr "ليس لديك حق الوصول إلى أي قسم في تطبيق إدارة مستخدمي الـ DHIS 2"
+
+msgid "User role"
+msgstr "دور المستخدم"
+
+msgid "User group"
+msgstr "مجموعة المستخدمين"
+
+msgid "Analytics dimension restrictions"
+msgstr ""
+
+msgid "Available restrictions"
+msgstr ""
+
+msgid "Selected restrictions"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "First name"
+msgstr "الاسم الأول"
+
+msgid "Last name"
+msgstr "الكنية"
+
+msgid "Interface language"
+msgstr "لغة الواجهة"
+
+msgid "Database language"
+msgstr "لغة قاعدة البيانات"
+
+msgid "Use database locale / no translation"
+msgstr "استخدام الإعدادات المحلية لقاعدة البيانات / بدون ترجمة"
+
+msgid "Disable this user account"
+msgstr ""
+
+msgid "Contact details"
+msgstr ""
+
+msgid "Mobile phone number"
+msgstr "رقم الهاتف الجوال"
+
+msgid "WhatsApp"
+msgstr "واتس آب"
+
+msgid "Facebook Messenger"
+msgstr "ماسنجر الفيسبوك"
+
+msgid "Skype"
+msgstr "سكايب"
+
+msgid "Telegram"
+msgstr "تلجرام"
+
+msgid "Twitter"
+msgstr "تويتر"
+
+msgid "Invite user"
+msgstr ""
+
+msgid "Create account or email invitation"
+msgstr "إنشاء حساب أو دعوة بالبريد الإلكتروني"
+
+msgid "Create account with user details"
+msgstr "إنشاء حساب مع تفاصيل المستخدم"
+
+msgid "Email invitation to create account"
+msgstr "دعوة بالبريد الإلكتروني لإنشاء حساب"
+
+msgid "Organisation unit access"
+msgstr ""
+
+msgid ""
+"Customise the organisation units this user has access to for searching, "
+"capturing and managing data."
+msgstr ""
+
+msgid "Organisation unit selections are recursive"
+msgstr ""
+
+msgid "Selecting a unit gives access to all units in its sub-hierarchy."
+msgstr ""
+
+msgid "Data capture and maintenance"
+msgstr ""
+
+msgid "The organisation units that this user can enter and edit data for."
+msgstr ""
+
+msgid "Data output and analysis"
+msgstr ""
+
+msgid "The organisation units that this user can export and analyse."
+msgstr ""
+
+msgid "Search"
+msgstr "البحث"
+
+msgid "The organisation that this user can search for and in."
+msgstr ""
+
+msgid "Maximum organisation unit level for data output"
+msgstr ""
+
+msgid "Roles and groups"
+msgstr ""
+
+msgid "Manage what roles and groups this user is a member of."
+msgstr ""
+
+msgid "Available user roles"
+msgstr ""
+
+msgid "User roles this user is assigned"
+msgstr ""
+
+msgid "User groups this user is a member of"
+msgstr ""
+
+msgid "Security"
+msgstr "الأمان"
+
+msgid "Settings for how this user can log in."
+msgstr ""
+
+msgid "Change user password"
+msgstr ""
+
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid ""
+"Minimum 8 characters, one uppercase and lowercase letter and one number"
+msgstr ""
+
+msgid "Repeat new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+msgid "Repeat password"
+msgstr ""
+
+msgid "Account expiration date"
+msgstr ""
+
+msgid "OIDC mapping value"
+msgstr ""
+
+msgid "OpenID Connect mapping claim for your identity platform"
+msgstr ""
+
+msgid "LDAP identifier"
+msgstr "معرف LDAP"
+
+msgid "External authentication only (OpenID / LDAP)"
+msgstr ""
+
+msgid "Send invite"
+msgstr "إرسال دعوة"
+
+msgid "Cancel invite"
+msgstr ""
+
+msgid "Invalid username"
+msgstr ""
+
+msgid "Invalid WhatsApp number"
+msgstr ""
+
+msgid "Error updating user"
+msgstr ""
+
+msgid "Error creating user"
+msgstr ""
+
+msgid "Username already taken"
+msgstr "الاسم مستخدم من قبل"
+
+msgid "There was a problem whilst checking the availability of this username"
+msgstr "حدثت مشكلة أثناء التحقق من توفر اسم المستخدم هذا"
+
+msgid "Passwords do not match"
+msgstr "عدم تطابق كلمتي السر"
+
+msgid "Please provide a value"
+msgstr "يرجى إدخال قيمة"
+
+msgid "New group"
+msgstr ""
+
+msgid "Create group"
+msgstr ""
+
+msgid "New role"
+msgstr ""
+
+msgid "Create role"
+msgstr ""
+
+msgid "Error fetching interface language"
+msgstr ""
+
+msgid "There was an error fetching the default interface language."
+msgstr ""
+
+msgid "New user"
+msgstr ""
+
+msgid "Create user"
+msgstr ""
+
+msgid "Error fetching group"
+msgstr ""
+
+msgid "There was an error fetching this group."
+msgstr ""
+
+msgid "Edit group"
+msgstr ""
+
+msgid "Save changes"
+msgstr "حفظ التغيرات"
+
+msgid "Error fetching role"
+msgstr ""
+
+msgid "There was an error fetching this role."
+msgstr ""
+
+msgid "Edit role"
+msgstr ""
+
+msgid "Error fetching user"
+msgstr ""
+
+msgid "There was an error fetching this user."
+msgstr ""
+
+msgid "Edit user"
+msgstr "تعديل المستخدم"
+
+msgid "Overview"
+msgstr "نظرة عامة"
+
+msgid "Edit user group"
+msgstr "تعديل مجموعة المستخدم"
+
+msgid "ID"
+msgstr "المعرف"
+
+msgid "Show details"
+msgstr "إظهار التفاصيل"
+
+msgid "Sharing settings"
+msgstr "إعدادات المشاركة"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Join group"
+msgstr "الإنضمام للمجموعة"
+
+msgid "Leave group"
+msgstr "مغادرة المجموعة"
+
+msgid "Deleted \"{{- name}}\" successfully"
+msgstr ""
+
+msgid "There was an error deleting the user group: {{- error}}"
+msgstr ""
+
+msgid "Delete user group {{- name}}"
+msgstr ""
+
+msgid "Are you sure you want to delete {{- name}}?"
+msgstr ""
+
+msgid "No, cancel"
+msgstr "لا، الغاء"
+
+msgid "Yes, delete"
+msgstr ""
+
+msgid "Joined user group \"{{- name}}\" successfuly"
+msgstr ""
+
+msgid "There was an error joining the user group: {{- error}}"
+msgstr ""
+
+msgid "Join user group {{- name}}"
+msgstr ""
+
+msgid "Are you sure you want to join {{- name}}?"
+msgstr ""
+
+msgid "Yes, join"
+msgstr ""
+
+msgid "Left user group \"{{- name}}\" successfuly"
+msgstr ""
+
+msgid "There was an error leaving the user group: {{- error}}"
+msgstr ""
+
+msgid "Leave user group {{- name}}"
+msgstr ""
+
+msgid "Are you sure you want to leave {{- name}}?"
+msgstr ""
+
+msgid "Yes, leave"
+msgstr "نعم، غادر"
+
+msgid "User Group Management"
+msgstr "إدارة مجموعة المستخدم"
+
+msgid "New"
+msgstr "جديد"
+
+msgid "Error loading user groups"
+msgstr ""
+
+msgid "Member?"
+msgstr ""
+
+msgid "Actions"
+msgstr "الإجراءات"
+
+msgid "Member"
+msgstr ""
+
+msgid "List"
+msgstr "عرض"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Create, modify, view and delete Users"
+msgstr "إنشاء، تعديل، استعراض و حذف المستخدمين"
+
+msgid "Create, modify, view and delete User Roles"
+msgstr "إنشاء، تعديل، استعراض و حذف أدوار المستخدم"
+
+msgid "Create, modify, view and delete User Groups"
+msgstr "إنشاء، تعديل، استعراض و حذف مجموعات المستخدم"
+
+msgid "Edit user role"
+msgstr "تعديل دور المستخدم"
+
+msgid "There was an error deleting the user role: {{- error}}"
+msgstr ""
+
+msgid "Delete user role {{- name}}"
+msgstr ""
+
+msgid "User Role Management"
+msgstr "إدارة دور المستخدم"
+
+msgid "Error loading user roles"
+msgstr ""
+
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+msgid "Replicate"
+msgstr "إنشاء نسخة"
+
+msgid "Reset password"
+msgstr ""
+
+msgid "Disable"
+msgstr "تعطيل"
+
+msgid "Enable"
+msgstr "تمكين"
+
+msgid "Disable Two Factor Authentication"
+msgstr "تعطيل Two Factor Authentication"
+
+msgid "There was an error deleting the user: {{- error}}"
+msgstr ""
+
+msgid "Delete user {{- name}}"
+msgstr ""
+
+msgid "Disabled two factor authentication for \"{{- name}}\" successfuly"
+msgstr ""
+
+msgid "There was an error disabling two factor authentication: {{- error}}"
+msgstr ""
+
+msgid "Disable two factor authentication for user {{- name}}"
+msgstr ""
+
+msgid ""
+"Are you sure you want to disable two factor authentication for {{- name}}?"
+msgstr ""
+
+msgid "Yes, disable two factor authentication"
+msgstr ""
+
+msgid "User \"{{- name}}\" disabled successfuly"
+msgstr ""
+
+msgid "There was an error disabling the user: {{- error}}"
+msgstr ""
+
+msgid "Disable user {{- name}}"
+msgstr ""
+
+msgid "Are you sure you want to disable {{- name}}?"
+msgstr ""
+
+msgid "Yes, disable"
+msgstr ""
+
+msgid "User \"{{- name}}\" enabled successfuly"
+msgstr ""
+
+msgid "There was an error enabling the user: {{- error}}"
+msgstr ""
+
+msgid "Enable user {{- name}}"
+msgstr ""
+
+msgid "Are you sure you want to enable {{- name}}?"
+msgstr ""
+
+msgid "Yes, enable"
+msgstr ""
+
+msgid "User \"{{- name}}\" replicated successfuly"
+msgstr ""
+
+msgid "There was an error replicating the user: {{- error}}"
+msgstr ""
+
+msgid "Replicate user {{- name}}"
+msgstr ""
+
+msgid "Username for new user"
+msgstr "اسم المستخدم للمستخدم الجديد"
+
+msgid "Password for new user"
+msgstr "كلمة السر للمستخدم الجديد"
+
+msgid ""
+"Password should be at least 8 characters long, with at least one lowercase "
+"character, one uppercase character and one special character."
+msgstr ""
+
+msgid "Replicate user"
+msgstr "إنشاء نسخة من المستخدم"
+
+msgid "Password of user \"{{- name}}\" reset successfuly"
+msgstr ""
+
+msgid "There was an error resetting the password: {{- error}}"
+msgstr ""
+
+msgid "Are you sure you want to reset the password for {{- name}}?"
+msgstr ""
+
+msgid "Yes, reset"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "{{months}} months"
+msgstr ""
+
+msgid "Time inactive"
+msgstr ""
+
+msgid "Invitation"
+msgstr ""
+
+msgid "All invitations"
+msgstr "كل الدعوات"
+
+msgid "Expired invitations"
+msgstr "الدعوات منتهية الصلاحية"
+
+msgid "Show self-registrations"
+msgstr ""
+
+msgid "Clear filters"
+msgstr "إلغاء عوامل التصفية"
+
+msgid "Org.unit"
+msgstr ""
+
+msgid "User Management"
+msgstr "إدارة المستخدم"
+
+msgid "Last login"
+msgstr "آخر عملية تسجيل دخول"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Disabled"
+msgstr "معطل"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Male"
+msgstr "ذكر"
+
+msgid "Female"
+msgstr "أنثى"
+
+msgid "Other"
+msgstr "أخرى"
+
+msgid "Created"
+msgstr "تم الإنشاء"
+
+msgid "Contact"
+msgstr ""
+
+msgid "Send message"
+msgstr "إرسال رسالة"
+
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+msgid "Permissions"
+msgstr "الأذونات"
+
+msgid "Organisations units"
+msgstr "الوحدات التنظيمية"
+
+msgid "User units"
+msgstr ""
+
+msgid "Introduction"
+msgstr "المقدمة"
+
+msgid "Job title"
+msgstr "المسمى الوظيفي"
+
+msgid "Works at"
+msgstr "يعمل في"
+
+msgid "Gender"
+msgstr "الجنس"
+
+msgid "Speaks"
+msgstr "يتحدث"
+
+msgid "Nationality"
+msgstr "الجنسية"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Interests"
+msgstr "الاهتمامات"
+
+msgid "Birthday"
+msgstr "تاريخ الميلاد"

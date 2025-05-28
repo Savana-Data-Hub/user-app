@@ -1,0 +1,17 @@
+.container {
+    /* display: grid; */
+    /* grid-template-columns: 220px 1fr; */
+    margin: 10px;
+    height: 100%;
+}
+
+.content {
+    padding: var(--spacers-dp16);
+    background: white;
+}
+
+.noticeBox {
+    margin: auto;
+    margin-top: var(--spacers-dp16);
+    max-width: 400px;
+}
